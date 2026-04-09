@@ -1,0 +1,1519 @@
+# vacatejudgment.org -- Full Content
+
+This file contains the full text content of all pages on vacatejudgment.org.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## After Vacating a Judgment -- What Happens Next
+Source: https://vacatejudgment.org/after-vacating.html
+
+After Vacating a Judgment
+
+What Happens Next
+
+Home » After Vacating
+
+The Case Is Reopened
+
+When the court grants your motion to vacate, the default judgment is set aside and the case returns to its pre-judgment status. You will typically have 20-30 days to file an answer to the original complaint. This is your chance to raise every defense and counterclaim. Do not miss this deadline -- you will not get another chance.
+
+Filing Your Answer
+
+Your answer must respond to every allegation in the complaint. For each paragraph, you admit, deny, or state that you lack sufficient information. Raise all affirmative defenses: statute of limitations, payment, accord and satisfaction, FDCPA violations, lack of standing (for debt buyers), and any others. Include counterclaims if applicable.
+
+What the Creditor Will Do
+
+After you answer, the creditor may: attempt to negotiate a settlement (often at a significant discount), pursue discovery, file a motion for summary judgment, or dismiss the case if their evidence is weak. Many debt collection cases settle after the default is vacated because the creditor knows they have a fight.
+
+Judgment Lien Removal
+
+If the default judgment created a lien on your property, vacating the judgment should remove the lien. You may need to file a separate motion or record a certified copy of the vacatur order with the county recorder. Check your county's records to confirm the lien has been removed.
+
+Frequently Asked Questions
+
+Can the creditor get another default judgment?
+
+Only if you fail to respond again. Once you file your answer, the case proceeds normally. Stay on top of deadlines.
+
+Should I try to settle after vacating?
+
+Often yes. You are in a stronger negotiating position. Settlement offers of 30-50% are common. Get any settlement in writing with a stipulation to dismiss with prejudice.
+
+What if the creditor re-serves me and I still can't pay?
+
+Consider bankruptcy. The automatic stay stops all collection, and Chapter 7 can eliminate the debt entirely.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal civil procedure. This is educational content, not legal advice.
+
+Related Guides
+
+How to Stop Debt Collectors
+
+Bank Account Levy Guide
+
+Cease and Desist Letter for Debt
+
+Debt Validation Letter Guide
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on judgments and being sued for debt:
+
+Fair Debt Collection Practices Act
+Cornell LII -- FDCPA
+
+CFPB: Sued by Collector
+Consumer guide
+
+CFPB Complaint Tool
+File complaints
+
+FTC: Debt Collection FAQs
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+Default Judgment Research
+Google Scholar
+
+Related Guides
+
+Default Judgments Explained
+
+How to respond to or vacate a default judgment
+
+defaultjudgment.org →
+
+Sued by a Debt Collector
+
+Free bankruptcy information guide
+
+debtcollectionlawsuit.org →
+
+Are You Judgment Proof?
+
+Free bankruptcy information guide
+
+judgmentproof.org →
+
+Sued by Credit Card Company
+
+Free bankruptcy information guide
+
+suedbycreditcardcompany.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Deficiency Balance
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Appeal vs. Motion to Vacate -- Which Should You File?
+Source: https://vacatejudgment.org/appeal-vs-vacate.html
+
+Appeal vs. Motion to Vacate
+
+Which Should You File?
+
+Home » Appeal vs. Vacate
+
+The Key Difference
+
+An appeal challenges legal errors made by the court during proceedings. A motion to vacate challenges the judgment itself based on external factors (improper service, excusable neglect, fraud). If you never appeared and a default judgment was entered, you almost always want a motion to vacate, not an appeal.
+
+When to Appeal
+
+Appeals are appropriate when: the court denied your motion to vacate (appeal that denial), the court made a legal error during trial, or the evidence was insufficient. Appeals must be filed within strict deadlines -- typically 30 days. Missing this deadline is usually fatal.
+
+When to File a Motion to Vacate
+
+Motions to vacate are appropriate when: you were never served, you had excusable neglect, the judgment was obtained by fraud, or the court lacked jurisdiction. The motion is filed in the same court. Deadlines are generally more flexible than appeal deadlines.
+
+Can You Do Both?
+
+Yes, but be strategic. If you file an appeal, the trial court may lose jurisdiction to consider a motion to vacate (in some jurisdictions). The safer approach is usually to file the motion to vacate first. If denied, then appeal the denial.
+
+Frequently Asked Questions
+
+I missed the appeal deadline -- can I still file a motion to vacate?
+
+Often yes. Motion to vacate deadlines are separate. Under Rule 60(b), you can file up to one year for most grounds, and there is no time limit for void judgments.
+
+Is a motion to vacate cheaper than an appeal?
+
+Usually yes. An appeal involves transcripts, briefs, and higher fees, taking 6-18 months. A motion to vacate can be resolved in 30-90 days in the same court.
+
+What court do I file in?
+
+A motion to vacate goes to the same court that entered the judgment. An appeal goes to the next higher court (appellate court).
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Educational content based on federal and state civil procedure. Not legal advice.
+
+Related Guides
+
+How to Stop Debt Collectors
+
+Bank Account Levy Guide
+
+Cease and Desist Letter for Debt
+
+Debt Buyer Rights Guide
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on judgments and being sued for debt:
+
+Fair Debt Collection Practices Act
+Cornell LII -- FDCPA
+
+CFPB: Sued by Collector
+Consumer guide
+
+CFPB Complaint Tool
+File complaints
+
+FTC: Debt Collection FAQs
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+Default Judgment Research
+Google Scholar
+
+Related Guides
+
+Default Judgments Explained
+
+How to respond to or vacate a default judgment
+
+defaultjudgment.org →
+
+Sued by a Debt Collector
+
+Free bankruptcy information guide
+
+debtcollectionlawsuit.org →
+
+Are You Judgment Proof?
+
+Free bankruptcy information guide
+
+judgmentproof.org →
+
+Sued by Credit Card Company
+
+Free bankruptcy information guide
+
+suedbycreditcardcompany.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Deficiency Balance
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Default Judgment vs. Consent Judgment -- Key Differences
+Source: https://vacatejudgment.org/default-vs-consent-judgments.html
+
+Default vs. Consent Judgments
+
+Key Differences and What They Mean for You
+
+Home » Default vs. Consent Judgments
+
+What Is a Default Judgment?
+
+A default judgment is entered when you fail to respond to a lawsuit within the required time. The court accepts the plaintiff's allegations as true and enters judgment without your input. Default judgments are common in debt collection -- studies show that 70-90% of debt collection cases end in default.
+
+What Is a Consent Judgment?
+
+A consent judgment (also called a stipulated judgment) is one you agreed to, usually as part of a settlement. You signed a document consenting to the entry of judgment, often in exchange for a reduced amount, a payment plan, or other terms. Because you consented, vacating a consent judgment is much more difficult.
+
+Why the Distinction Matters
+
+Default judgments are much easier to vacate because you never had your day in court. Consent judgments are harder because you voluntarily agreed. However, a consent judgment can still be challenged if: you were coerced or misled into signing, the terms were unconscionable, you did not understand what you were signing, or you signed under duress.
+
+Frequently Asked Questions
+
+I signed something at the courthouse but didn't understand it -- is that a consent judgment?
+
+Possibly. If you can show you did not understand what you were signing -- due to language barriers, lack of legal counsel, or misleading statements -- you may be able to challenge it.
+
+Can I vacate a consent judgment if I can't make the payments?
+
+Generally no. Inability to pay is not a ground for vacating. However, bankruptcy can discharge the underlying debt even with a consent judgment in place.
+
+Which type of judgment is worse for my credit?
+
+Both appear similar on credit reports (though most bureaus stopped reporting civil judgments in 2017-2018). The practical difference is in enforcement -- consent judgments may include immediate garnishment authorizations.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Educational content based on federal and state civil procedure. Not legal advice.
+
+Related Guides
+
+How to Stop Debt Collectors
+
+Bank Account Levy Guide
+
+Cease and Desist Letter for Debt
+
+Debt Buyer Rights Guide
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on judgments and being sued for debt:
+
+Fair Debt Collection Practices Act
+Cornell LII -- FDCPA
+
+CFPB: Sued by Collector
+Consumer guide
+
+CFPB Complaint Tool
+File complaints
+
+FTC: Debt Collection FAQs
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+Default Judgment Research
+Google Scholar
+
+Related Guides
+
+Default Judgments Explained
+
+How to respond to or vacate a default judgment
+
+defaultjudgment.org →
+
+Sued by a Debt Collector
+
+Free bankruptcy information guide
+
+debtcollectionlawsuit.org →
+
+Are You Judgment Proof?
+
+Free bankruptcy information guide
+
+judgmentproof.org →
+
+Sued by Credit Card Company
+
+Free bankruptcy information guide
+
+suedbycreditcardcompany.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Deficiency Balance
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Excusable Neglect -- When Failing to Respond Is Not Your Fault
+Source: https://vacatejudgment.org/excusable-neglect.html
+
+Excusable Neglect
+
+When Failing to Respond Is Not Your Fault
+
+Home » Excusable Neglect
+
+The Pioneer Four-Factor Test
+
+The Supreme Court in Pioneer Investment Services v. Brunswick Associates established four factors courts weigh: (1) the danger of prejudice to the opposing party, (2) the length of delay and its potential impact on proceedings, (3) the reason for the delay, including whether it was within your control, and (4) whether you acted in good faith. No single factor is dispositive -- courts balance all four.
+
+What Qualifies as Excusable
+
+Courts have found excusable neglect in cases involving: serious medical emergencies, hospitalization during the response period, military deployment, attorney abandonment (your lawyer failed to file), mental health crises, domestic violence situations, and natural disasters. The key is that the neglect was not due to carelessness or willful disregard.
+
+What Does Not Qualify
+
+Courts typically reject: simply forgetting about the lawsuit, choosing not to respond because you thought it would go away, general busy-ness or work obligations, failure to check your mail, and disagreement with the legal system. Ignorance of the law is generally not excusable neglect, though some courts are more lenient with pro se defendants.
+
+Frequently Asked Questions
+
+My lawyer never filed my answer -- is that excusable neglect?
+
+Attorney abandonment or gross negligence can constitute excusable neglect. If you hired a lawyer who failed to respond, you should be able to vacate the default. Bring evidence of the attorney-client relationship and the attorney's failure. You may also have a malpractice claim.
+
+I was in the hospital when I was served -- what do I do?
+
+Medical emergencies are among the strongest grounds. Gather your medical records showing hospitalization dates, discharge paperwork, and any documentation showing you were unable to handle legal matters. File the motion as soon as you are able.
+
+Does excusable neglect have a time limit?
+
+Yes. Under Federal Rule 60(b)(1), you must file within a reasonable time and no more than one year after the judgment. State rules vary. Check time limits by state.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal civil procedure and Supreme Court precedent. This is educational content, not legal advice.
+
+Related Guides
+
+How to Stop Debt Collectors
+
+Bank Account Levy Guide
+
+Cease and Desist Letter for Debt
+
+Debt Statute of Limitations
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on judgments and being sued for debt:
+
+Fair Debt Collection Practices Act
+Cornell LII -- FDCPA
+
+CFPB: Sued by Collector
+Consumer guide
+
+CFPB Complaint Tool
+File complaints
+
+FTC: Debt Collection FAQs
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+Default Judgment Research
+Google Scholar
+
+Related Guides
+
+Default Judgments Explained
+
+How to respond to or vacate a default judgment
+
+defaultjudgment.org →
+
+Sued by a Debt Collector
+
+Free bankruptcy information guide
+
+debtcollectionlawsuit.org →
+
+Are You Judgment Proof?
+
+Free bankruptcy information guide
+
+judgmentproof.org →
+
+Sued by Credit Card Company
+
+Free bankruptcy information guide
+
+suedbycreditcardcompany.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Debt Buyer Rights
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Grounds for Vacating a Judgment -- Legal Bases Under Rule 60(b)
+Source: https://vacatejudgment.org/grounds-for-vacating.html
+
+Grounds for Vacating a Judgment
+
+Legal Bases Under Rule 60(b)
+
+Home » Grounds for Vacating
+
+What Is a Motion to Vacate?
+
+A motion to vacate asks the court to set aside a previously entered judgment. Under Federal Rule of Civil Procedure 60(b), there are six enumerated grounds. Most state courts have equivalent rules. The motion must be filed within a reasonable time, and for grounds (1)-(3), no more than one year after the judgment was entered.
+
+Excusable Neglect (Rule 60(b)(1))
+
+This is the most commonly invoked ground. You must show that your failure to respond was not due to carelessness but to circumstances beyond your control -- serious illness, military deployment, reliance on an attorney who failed to act, or genuine confusion about the legal process. Courts weigh four factors from the Pioneer case: the danger of prejudice to the other party, the length of delay, the reason for the delay, and whether you acted in good faith.
+
+Fraud or Misrepresentation (Rule 60(b)(3))
+
+If the creditor obtained the judgment through fraud -- for example, by filing a false affidavit of service, fabricating the debt amount, or concealing evidence of payment -- the judgment can be vacated. You must prove the fraud by clear and convincing evidence and show that it prevented you from fully presenting your case.
+
+Void Judgment (Rule 60(b)(4))
+
+A judgment is void if the court lacked personal jurisdiction over you or subject matter jurisdiction over the case. The most common scenario: you were never properly served with the lawsuit. A void judgment can be challenged at any time -- there is no deadline. This is often the strongest ground for vacating a default judgment in debt collection cases.
+
+Frequently Asked Questions
+
+How long do I have to file a motion to vacate?
+
+For excusable neglect, fraud, or newly discovered evidence, you must file within one year of the judgment and within a reasonable time. For void judgments (lack of jurisdiction or improper service), there is no time limit. For the catch-all ground under 60(b)(6), you must file within a reasonable time.
+
+Can I vacate a judgment I knew about but ignored?
+
+It is very difficult but not impossible. Simply ignoring a lawsuit you knew about is not excusable neglect. However, if you can show extraordinary circumstances -- such as being told by the creditor that the case was dismissed, or suffering from a mental health crisis -- some courts will grant relief under 60(b)(6).
+
+Do I need a lawyer to file a motion to vacate?
+
+You can file pro se, but the legal standards are technical. Many legal aid organizations help with these motions for free. Some consumer protection attorneys take these cases on contingency, especially if the creditor committed FDCPA violations during collection.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code)
+and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level statistics from the
+Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
+This is educational content, not legal advice.
+
+Related Guides
+
+How to Stop Debt Collectors
+
+Bank Account Levy Guide
+
+Cease and Desist Letter for Debt
+
+Debt Buyer Rights Guide
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on judgments and being sued for debt:
+
+Fair Debt Collection Practices Act
+Cornell LII -- FDCPA
+
+CFPB: Sued by Collector
+Consumer guide
+
+CFPB Complaint Tool
+File complaints
+
+FTC: Debt Collection FAQs
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+Default Judgment Research
+Google Scholar
+
+Related Guides
+
+Default Judgments Explained
+
+How to respond to or vacate a default judgment
+
+defaultjudgment.org →
+
+Sued by a Debt Collector
+
+Free bankruptcy information guide
+
+debtcollectionlawsuit.org →
+
+Are You Judgment Proof?
+
+Free bankruptcy information guide
+
+judgmentproof.org →
+
+Sued by Credit Card Company
+
+Free bankruptcy information guide
+
+suedbycreditcardcompany.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Means Test
+Deficiency Balance
+Right to Cure
+Brunner Test
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Improper Service -- Challenging Sewer Service and Defective Process
+Source: https://vacatejudgment.org/improper-service.html
+
+Improper Service
+
+Challenging Sewer Service and Defective Process
+
+Home » Improper Service
+
+What Counts as Proper Service
+
+Each state has specific rules for how a lawsuit must be served. Generally, proper service requires: personal delivery to you (in-hand service), leaving papers with a person of suitable age at your dwelling, or in some cases, service by certified mail with return receipt. Tacking papers to a door, leaving them with a neighbor who does not live with you, or serving the wrong person at the wrong address is defective.
+
+Sewer Service -- The Debt Collection Epidemic
+
+Sewer service is the illegal practice where a process server falsely claims to have served you. The server files a fraudulent affidavit of service, and the creditor obtains a default judgment. Studies have found this practice is widespread in debt collection cases, particularly in New York, Illinois, and other high-volume courts. If you never received any papers, sewer service may be the reason.
+
+How to Prove Defective Service
+
+Obtain the affidavit of service from the court file. Check: Does the physical description match you? Were you at the address on the date claimed? Does the server claim personal service but you were at work (get employment records)? Was service made at an old address? Gather evidence -- travel records, work schedules, utility bills showing your actual address, witness statements.
+
+Filing the Motion Based on Improper Service
+
+Your motion should argue that the judgment is void under Rule 60(b)(4) due to lack of personal jurisdiction. Attach your declaration with specific facts contradicting the affidavit of service, plus supporting evidence. Request a hearing -- judges take service issues seriously because due process is at stake.
+
+Frequently Asked Questions
+
+What if the process server says they served me but I know they didn't?
+
+The burden shifts based on the type of service claimed. If the server claims personal service, you can challenge with evidence you were elsewhere. Courts can order the process server to testify. Consider filing a complaint with the state's process server licensing authority.
+
+Can I sue the process server for sewer service?
+
+Yes. Filing a false affidavit is a crime in most states and can give rise to civil liability. If you can prove fraudulent service, you may also have claims against the creditor's law firm under the FDCPA.
+
+Is service by mail valid?
+
+It depends on the state and court. Some states allow service by certified mail with return receipt. Check whether your state allows it for the type of case and whether the specific requirements were followed exactly.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal and state civil procedure rules and the FDCPA. This is educational content, not legal advice.
+
+Related Guides
+
+How to Stop Debt Collectors
+
+Bank Account Levy Guide
+
+Cease and Desist Letter for Debt
+
+Debt Statute of Limitations
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on judgments and being sued for debt:
+
+Fair Debt Collection Practices Act
+Cornell LII -- FDCPA
+
+CFPB: Sued by Collector
+Consumer guide
+
+CFPB Complaint Tool
+File complaints
+
+FTC: Debt Collection FAQs
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+Default Judgment Research
+Google Scholar
+
+Related Guides
+
+Default Judgments Explained
+
+How to respond to or vacate a default judgment
+
+defaultjudgment.org →
+
+Sued by a Debt Collector
+
+Free bankruptcy information guide
+
+debtcollectionlawsuit.org →
+
+Are You Judgment Proof?
+
+Free bankruptcy information guide
+
+judgmentproof.org →
+
+Sued by Credit Card Company
+
+Free bankruptcy information guide
+
+suedbycreditcardcompany.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Deficiency Balance
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Vacate a Judgment -- How to Get Relief [2026]
+Source: https://vacatejudgment.org/
+
+🌐 Esta pagina esta disponible en Espanol
+
+Vacate a Judgment
+
+How to Undo a Default Judgment Against You
+
+What Is a Motion to Vacate?
+
+A motion to vacate judgment asks the court to set aside (cancel) a judgment that was previously entered. In debt collection cases, this almost always involves a default judgment -- a judgment entered because you did not respond to the lawsuit. Vacating the judgment reopens the case and gives you the chance to defend yourself.
+
+The legal authority varies by state, but in federal court it is Federal Rule of Civil Procedure 60(b). Most states have similar rules. The motion must typically be filed within a reasonable time, and for certain grounds, within one year of the judgment.
+
+Grounds for Vacating a Judgment
+
+Excusable neglect (Rule 60(b)(1)): You had a legitimate reason for not responding -- illness, emergency, military deployment, or you genuinely did not understand you needed to respond. Newly discovered evidence (60(b)(2)): Evidence showing you don't owe the debt or the amount is wrong. Fraud or misrepresentation (60(b)(3)): The creditor lied to the court. The judgment is void (60(b)(4)): The court lacked jurisdiction or you were never properly served. Satisfaction (60(b)(5)): The debt has already been paid. Any other reason justifying relief (60(b)(6)): A catch-all for extraordinary circumstances.
+
+Improper Service -- Your Strongest Argument
+
+If you were never properly served with the lawsuit, the default judgment is void and must be vacated. This is the strongest possible ground because a void judgment can be challenged at any time -- there is no statute of limitations. Common service defects: papers left at the wrong address, "sewer service" (process server lied), service on someone who does not live with you, or no service at all.
+
+To prove improper service: obtain the proof of service from the court file, check whether the person described matches your description, check whether you were actually at the address on the date claimed, and gather evidence (travel records, work records, witnesses) showing you were not served.
+
+How to File the Motion
+
+Step 1: Obtain a copy of the judgment and entire court file. Step 2: Identify your grounds (service defect, excusable neglect, fraud, etc.). Step 3: Draft the motion with a supporting declaration or affidavit. Step 4: File it with the court that entered the judgment. Step 5: Serve a copy on the creditor's attorney. Step 6: Attend the hearing.
+
+You should also prepare a proposed answer to the underlying lawsuit. Courts want to see that vacating the judgment will lead to a real defense, not just delay. If you have a meritorious defense (statute of limitations, wrong amount, wrong person), include it in your motion.
+
+Meritorious Defense Requirement
+
+Most courts require you to show a "meritorious defense" -- a valid reason you could win if the case were reopened. This does not mean you must prove you will win, just that you have a plausible defense. Examples: the statute of limitations has expired, the amount is wrong, the debt was already paid, you are not the right person, the debt was already discharged in bankruptcy, or the creditor cannot prove they own the debt.
+
+What If the Motion Is Denied?
+
+If the court denies your motion to vacate, you can: appeal the denial (usually within 30 days), file a motion for reconsideration with additional evidence, or turn to bankruptcy. Bankruptcy's automatic stay immediately stops enforcement of the judgment, and if the underlying debt is dischargeable, the judgment becomes permanently unenforceable after discharge.
+
+Even with a judgment in place, you may be judgment proof -- meaning the creditor cannot collect despite having the judgment. This buys time while you explore options.
+
+Judgment Liens and Your Property
+
+A judgment often creates a lien on your real property. Even if you vacate the judgment or discharge the debt in bankruptcy, you may need to separately remove the judgment lien. In bankruptcy, 11 U.S.C. 522(f) allows you to avoid judgment liens that impair your homestead exemption. Outside bankruptcy, you may need a release from the creditor or a court order.
+
+Check your county recorder's office to see if a judgment lien has been filed against your property. If it has, address it directly -- it will not disappear on its own, even after the judgment is vacated.
+
+Explore All Topics
+
+Grounds for Vacating a Judgment -- Legal bases under Rule 60(b)
+
+Motion to Vacate Template -- Step-by-step filing guide
+
+Time Limits by State -- State-by-state deadline guide
+
+Improper Service -- Challenging sewer service and defective process
+
+Excusable Neglect -- When failing to respond is not your fault
+
+Meritorious Defense -- Showing you can win if the case reopens
+
+After Vacating -- What happens next
+
+Default vs. Consent Judgments -- Key differences
+
+Appeal vs. Motion to Vacate -- Which should you file?
+
+Frequently Asked Questions
+
+How long do I have to vacate a default judgment?
+
+It varies by state and grounds. For excusable neglect, typically within one year. For void judgments (improper service), there is generally no time limit. For fraud, usually within a reasonable time but check your state's rules. Act as quickly as possible -- delay weakens your case.
+
+Can I vacate a judgment from years ago?
+
+Possibly, especially if you were never properly served. A void judgment (due to lack of jurisdiction or improper service) can be challenged at any time. Other grounds may be time-barred. Consult a consumer protection attorney about your specific situation.
+
+Do I need a lawyer to vacate a judgment?
+
+You can file pro se (without a lawyer), but the motion must follow court rules for formatting, service, and legal arguments. Legal aid organizations can help, and some consumer protection attorneys take these cases on contingency if there are FDCPA violations involved.
+
+How do I vacate a judgment?
+
+File a motion to vacate judgment with the court that entered it. You must state legal grounds such as improper service, excusable neglect, fraud, or a void judgment. Attach a proposed answer to the underlying lawsuit. Serve the motion on the opposing party and attend the hearing.
+
+What is a motion to vacate?
+
+A motion to vacate is a formal request asking the court to set aside or cancel a previously entered judgment. It is governed by state rules of civil procedure or Federal Rule 60(b). The motion must identify specific legal grounds and explain why relief is justified.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code)
+and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level statistics from the
+Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
+This is educational content, not legal advice.
+
+Related Guides
+
+How to Stop Debt Collectors
+
+Bank Account Levy Guide
+
+Cease and Desist Letter for Debt
+
+Debt Buyer Rights Guide
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on judgments and being sued for debt:
+
+Fair Debt Collection Practices Act
+Cornell LII -- FDCPA
+
+CFPB: Sued by Collector
+Consumer guide
+
+CFPB Complaint Tool
+File complaints
+
+FTC: Debt Collection FAQs
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+Default Judgment Research
+Google Scholar
+
+Related Guides
+
+Default Judgments Explained
+
+How to respond to or vacate a default judgment
+
+defaultjudgment.org →
+
+Sued by a Debt Collector
+
+Free bankruptcy information guide
+
+debtcollectionlawsuit.org →
+
+Are You Judgment Proof?
+
+Free bankruptcy information guide
+
+judgmentproof.org →
+
+Sued by Credit Card Company
+
+Free bankruptcy information guide
+
+suedbycreditcardcompany.com →
+
+Your Next Questions
+
+Real users ask these next -- we built the answers.
+
+Chapter 7 vs Chapter 13
+
+Filing stops most collection actions immediately
+
+chapter7vs13.org →
+
+How to File Bankruptcy
+
+The step-by-step process from start to discharge
+
+howtofilebankruptcy.org →
+
+Exemptions by State
+
+What property creditors cannot take
+
+bankruptcyexemptionsbystate.com →
+
+File Without a Lawyer?
+
+Pro se filing: risks, process, and when it makes sense
+
+filebankruptcywithoutlawyer.com →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+📖 Bankruptcy Glossary -- 61 terms explained
+
+Filing in Your State?
+
+Exemptions vary dramatically by state. Check what you can protect.
+
+Browse Your State's Exemptions →
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+vacatejudgment.org
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Meritorious Defense -- Showing You Can Win If the Case Reopens
+Source: https://vacatejudgment.org/meritorious-defense.html
+
+Meritorious Defense
+
+Showing You Can Win If the Case Reopens
+
+Home » Meritorious Defense
+
+What Is a Meritorious Defense?
+
+When you move to vacate a default judgment, most courts require you to show a meritorious defense -- a plausible reason you could win if the case were tried on the merits. This does not mean you must prove you will win. You only need to show that your defense is not frivolous and that if proven, it would change the outcome. The bar is relatively low.
+
+Common Meritorious Defenses in Debt Cases
+
+The most effective defenses include: the statute of limitations has expired, the debt was already paid, you are not the debtor (wrong person or identity theft), the amount claimed is wrong, the debt was already discharged in bankruptcy, the creditor violated the FDCPA, or the debt buyer cannot prove the chain of title.
+
+How to Present Your Defense
+
+Include a proposed answer with your motion to vacate. In the answer, assert each defense as an affirmative defense or denial. In your supporting declaration, explain the factual basis for each defense. Attach any supporting documents -- payment receipts, bankruptcy discharge order, identity theft report, or evidence showing the statute of limitations has run.
+
+Frequently Asked Questions
+
+What if I actually owe the debt but was never served?
+
+You can still vacate the judgment. The meritorious defense requirement is separate from the grounds for vacating. Even if you owe the full amount, improper service makes the judgment void. Once vacated, the creditor must re-serve you properly.
+
+Is "I can't afford to pay" a meritorious defense?
+
+No. Inability to pay is not a legal defense. However, other defenses may apply that you have not considered. If you truly have no defenses, Chapter 7 bankruptcy may be a better option.
+
+Do I need evidence at this stage or just allegations?
+
+At the motion stage, you need more than bare allegations but less than trial-level proof. A declaration under penalty of perjury plus supporting documents is usually sufficient.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal civil procedure. This is educational content, not legal advice.
+
+Related Guides
+
+How to Stop Debt Collectors
+
+Bank Account Levy Guide
+
+Cease and Desist Letter for Debt
+
+Debt Validation Letter Guide
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on judgments and being sued for debt:
+
+Fair Debt Collection Practices Act
+Cornell LII -- FDCPA
+
+CFPB: Sued by Collector
+Consumer guide
+
+CFPB Complaint Tool
+File complaints
+
+FTC: Debt Collection FAQs
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+Default Judgment Research
+Google Scholar
+
+Related Guides
+
+Default Judgments Explained
+
+How to respond to or vacate a default judgment
+
+defaultjudgment.org →
+
+Sued by a Debt Collector
+
+Free bankruptcy information guide
+
+debtcollectionlawsuit.org →
+
+Are You Judgment Proof?
+
+Free bankruptcy information guide
+
+judgmentproof.org →
+
+Sued by Credit Card Company
+
+Free bankruptcy information guide
+
+suedbycreditcardcompany.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Deficiency Balance
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Motion to Vacate Template and Filing Guide
+Source: https://vacatejudgment.org/motion-template.html
+
+Motion to Vacate Template
+
+Filing Guide and Procedural Requirements
+
+Home » Motion Template
+
+Essential Components of the Motion
+
+Every motion to vacate must include: a caption with the correct court and case number, a statement of the grounds for relief (citing the specific rule), a declaration or affidavit with facts supporting your grounds, a proposed answer to the underlying complaint showing your meritorious defense, a certificate of service, and a proposed order for the judge to sign. Missing any of these can result in denial.
+
+The Supporting Declaration
+
+The declaration is the most important part. Write it in first person, under penalty of perjury. State the facts chronologically: when you first learned of the lawsuit, why you did not respond, when you discovered the judgment, and what defense you have to the debt. Attach supporting documents -- medical records, travel records, proof of payment, or evidence of improper service.
+
+Filing and Service Requirements
+
+File the motion with the clerk of the court that entered the judgment. Pay the filing fee (or request a fee waiver if you qualify). Serve a copy on the plaintiff's attorney by mail or the method required by your local rules. Keep proof of service. Most courts will schedule a hearing -- you must attend.
+
+Frequently Asked Questions
+
+How much does it cost to file a motion to vacate?
+
+Filing fees vary by court. In many state courts, the fee is $0-75 for a motion in an existing case. If you cannot afford the fee, you can file a fee waiver application. Federal courts charge no additional fee for post-judgment motions in existing cases.
+
+How long does the process take?
+
+From filing to hearing, typically 30-90 days depending on the court's calendar. Some courts allow the motion to be decided on papers without a hearing. If granted, you will need to file an answer to the original complaint within 20-30 days.
+
+What happens if my motion is denied?
+
+You can appeal the denial, typically within 30 days. You can also file a motion for reconsideration if you have new evidence. Alternatively, filing for Chapter 7 bankruptcy can eliminate the debt regardless of the judgment.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code)
+and the Fair Debt Collection Practices Act (15 U.S.C. 1692). This is educational content, not legal advice.
+
+Related Guides
+
+How to Stop Debt Collectors
+
+Bank Account Levy Guide
+
+Cease and Desist Letter for Debt
+
+Debt Statute of Limitations
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on judgments and being sued for debt:
+
+Fair Debt Collection Practices Act
+Cornell LII -- FDCPA
+
+CFPB: Sued by Collector
+Consumer guide
+
+CFPB Complaint Tool
+File complaints
+
+FTC: Debt Collection FAQs
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+Default Judgment Research
+Google Scholar
+
+Related Guides
+
+Default Judgments Explained
+
+How to respond to or vacate a default judgment
+
+defaultjudgment.org →
+
+Sued by a Debt Collector
+
+Free bankruptcy information guide
+
+debtcollectionlawsuit.org →
+
+Are You Judgment Proof?
+
+Free bankruptcy information guide
+
+judgmentproof.org →
+
+Sued by Credit Card Company
+
+Free bankruptcy information guide
+
+suedbycreditcardcompany.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Automatic Stay
+Deficiency Balance
+Right to Cure
+Brunner Test
+Debt Buyer Rights
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Time Limits to Vacate a Judgment by State
+Source: https://vacatejudgment.org/time-limits-by-state.html
+
+Time Limits to Vacate a Judgment
+
+State-by-State Deadline Guide
+
+Home » Time Limits by State
+
+Federal vs. State Deadlines
+
+Federal Rule 60(b) allows motions within a reasonable time, with a one-year outer limit for grounds (1)-(3). State rules vary significantly. Some states like California have specific statutes (CCP 473) with six-month deadlines. Others follow the federal model closely. The deadline that matters is the one in the court where the judgment was entered -- not where you live now.
+
+States with Short Deadlines
+
+Several states impose tight deadlines: New York requires a motion within one year for excusable default (CPLR 5015(a)(1)). California gives six months for attorney mistake under CCP 473(b). Texas allows motions to set aside default under Rule 329b within 30 days of judgment (or within the court's plenary power period). Florida Rule 1.540(b) mirrors the federal one-year limit. Always check your specific state.
+
+The Void Judgment Exception
+
+In virtually every state, a void judgment can be challenged at any time. This is critical for debt collection cases where service was defective. If you were never properly served, the court never obtained personal jurisdiction, and the judgment is void ab initio. There is no statute of limitations on challenging a void judgment in any U.S. jurisdiction. Learn more about improper service challenges.
+
+Frequently Asked Questions
+
+What if I missed my state's deadline?
+
+If you missed the deadline for excusable neglect or fraud, check whether the judgment is void due to improper service (no deadline). Consider an independent action in equity. Or explore bankruptcy -- a discharge injunction permanently bars collection of the underlying debt regardless of the judgment.
+
+Does the deadline start from the judgment date or when I found out?
+
+For most grounds, the deadline runs from the date of judgment entry, not when you discovered it. However, for fraud, the clock typically starts when you discovered or should have discovered the fraud. For void judgments, there is no deadline at all.
+
+Can a debt collector enforce an old default judgment?
+
+Yes, judgments can be renewed in most states (typically every 10-20 years). However, the statute of limitations on collecting may limit enforcement actions. If the judgment is old and you were never properly served, you still have the right to challenge it as void.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal and state civil procedure rules. This is educational content, not legal advice.
+
+Related Guides
+
+How to Stop Debt Collectors
+
+Bank Account Levy Guide
+
+Cease and Desist Letter for Debt
+
+Debt Validation Letter Guide
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on judgments and being sued for debt:
+
+Fair Debt Collection Practices Act
+Cornell LII -- FDCPA
+
+CFPB: Sued by Collector
+Consumer guide
+
+CFPB Complaint Tool
+File complaints
+
+FTC: Debt Collection FAQs
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+Default Judgment Research
+Google Scholar
+
+Related Guides
+
+Default Judgments Explained
+
+How to respond to or vacate a default judgment
+
+defaultjudgment.org →
+
+Sued by a Debt Collector
+
+Free bankruptcy information guide
+
+debtcollectionlawsuit.org →
+
+Are You Judgment Proof?
+
+Free bankruptcy information guide
+
+judgmentproof.org →
+
+Sued by Credit Card Company
+
+Free bankruptcy information guide
+
+suedbycreditcardcompany.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Deficiency Balance Debt Buyer Rights
+
+Free bankruptcy education for the public interest. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3

@@ -1,0 +1,25 @@
+# Vacate a Judgment -- How to Get Relief [2026]
+> How to vacate a default judgment. Motion requirements, grounds, timelines, and what to do after the judgment is set aside. 2026 guide.
+
+## About
+vacatejudgment.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- After Vacating a Judgment -- What Happens Next: https://vacatejudgment.org/after-vacating.html
+- Appeal vs. Motion to Vacate -- Which Should You File?: https://vacatejudgment.org/appeal-vs-vacate.html
+- Default Judgment vs. Consent Judgment -- Key Differences: https://vacatejudgment.org/default-vs-consent-judgments.html
+- Excusable Neglect -- When Failing to Respond Is Not Your Fault: https://vacatejudgment.org/excusable-neglect.html
+- Grounds for Vacating a Judgment -- Legal Bases Under Rule 60(b): https://vacatejudgment.org/grounds-for-vacating.html
+- Improper Service -- Challenging Sewer Service and Defective Process: https://vacatejudgment.org/improper-service.html
+- Vacate a Judgment -- How to Get Relief: https://vacatejudgment.org/
+- Meritorious Defense -- Showing You Can Win If the Case Reopens: https://vacatejudgment.org/meritorious-defense.html
+- Motion to Vacate Template and Filing Guide: https://vacatejudgment.org/motion-template.html
+- Time Limits to Vacate a Judgment by State: https://vacatejudgment.org/time-limits-by-state.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
