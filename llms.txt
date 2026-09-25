@@ -1,5 +1,5 @@
 # Vacate a Judgment - How to Get Relief [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > How to vacate a default judgment. Motion requirements, grounds, timelines, and what to do after the judgment is set aside. 2026 guide.
 
@@ -8,17 +8,70 @@ vacatejudgment.org is part of the Open Bankruptcy Project (openbankruptcyproject
 
 ## Key Pages
 - How to Vacate a Judgment After Filing Bankruptcy: https://vacatejudgment.org/after-bankruptcy.html
-- After Vacating a Judgment - What Happens Next: https://vacatejudgment.org/after-vacating.html
-- Appeal vs. Motion to Vacate - Which Should You File?: https://vacatejudgment.org/appeal-vs-vacate.html
-- Default Judgment vs. Consent Judgment - Key Differences: https://vacatejudgment.org/default-vs-consent-judgments.html
-- Excusable Neglect - When Failing to Respond Is Not Your Fault: https://vacatejudgment.org/excusable-neglect.html
+- After Vacating a Judgment [2026]: Garnishment Release, Credit Report Cleanup, and Case Reactivation: https://vacatejudgment.org/after-vacating.html
+- Appeal vs Motion to Vacate [2026]: FRCP 60(b) Reopen vs Direct Appellate Review: https://vacatejudgment.org/appeal-vs-vacate.html
+- Default vs Consent Judgments [2026]: FRCP 55 Default and FRCP 60(b) Vacate Standards Compared: https://vacatejudgment.org/default-vs-consent-judgments.html
+- Excusable Neglect [2026]: FRCP 60(b)(1) Pioneer Investment Services 4-Factor Test: https://vacatejudgment.org/excusable-neglect.html
 - Grounds for Vacating a Judgment - Legal Bases Under Rule 60(b): https://vacatejudgment.org/grounds-for-vacating.html
 - Improper Service - Challenging Sewer Service and Defective Process: https://vacatejudgment.org/improper-service.html
 - Vacate a Judgment - How to Get Relief: https://vacatejudgment.org/
-- Meritorious Defense - Showing You Can Win If the Case Reopens: https://vacatejudgment.org/meritorious-defense.html
+- Meritorious Defense Requirement [2026]: Showing You Can Win If FRCP 60(b) Vacates the Judgment: https://vacatejudgment.org/meritorious-defense.html
 - Motion to Vacate Template and Filing Guide: https://vacatejudgment.org/motion-template.html
 - Time Limits to Vacate a Judgment by State: https://vacatejudgment.org/time-limits-by-state.html
 - Privacy Policy: https://vacatejudgment.org/privacy.html
+- About vacatejudgment.org: https://vacatejudgment.org/about.html
+- Alabama Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/alabama.html
+- Alaska Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/alaska.html
+- Arizona Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/arizona.html
+- Arkansas Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/arkansas.html
+- California Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/california.html
+- Colorado Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/colorado.html
+- Connecticut Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/connecticut.html
+- Delaware Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/delaware.html
+- District of Columbia Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/district-of-columbia.html
+- Florida Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/florida.html
+- Georgia Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/georgia.html
+- Hawaii Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/hawaii.html
+- Idaho Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/idaho.html
+- Illinois Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/illinois.html
+- Motion-to-Vacate Deadlines by State: https://vacatejudgment.org/states/
+- Indiana Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/indiana.html
+- Iowa Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/iowa.html
+- Kansas Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/kansas.html
+- Kentucky Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/kentucky.html
+- Louisiana Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/louisiana.html
+- Maine Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/maine.html
+- Maryland Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/maryland.html
+- Massachusetts Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/massachusetts.html
+- Michigan Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/michigan.html
+- Minnesota Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/minnesota.html
+- Mississippi Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/mississippi.html
+- Missouri Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/missouri.html
+- Montana Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/montana.html
+- Nebraska Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/nebraska.html
+- Nevada Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/nevada.html
+- New Hampshire Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/new-hampshire.html
+- New Jersey Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/new-jersey.html
+- New Mexico Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/new-mexico.html
+- New York Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/new-york.html
+- North Carolina Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/north-carolina.html
+- North Dakota Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/north-dakota.html
+- Ohio Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/ohio.html
+- Oklahoma Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/oklahoma.html
+- Oregon Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/oregon.html
+- Pennsylvania Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/pennsylvania.html
+- Rhode Island Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/rhode-island.html
+- South Carolina Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/south-carolina.html
+- South Dakota Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/south-dakota.html
+- Tennessee Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/tennessee.html
+- Texas Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/texas.html
+- Utah Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/utah.html
+- Vermont Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/vermont.html
+- Virginia Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/virginia.html
+- Washington Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/washington.html
+- West Virginia Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/west-virginia.html
+- Wisconsin Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/wisconsin.html
+- Wyoming Motion to Vacate Judgment: Deadlines and Grounds: https://vacatejudgment.org/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
